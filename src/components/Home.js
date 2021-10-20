@@ -24,7 +24,6 @@ const BotaoAdicionar = styled.button`
 
 const ImagemCamisetas = styled.img`
     width: 60%
-    
 `
 
 export class Home extends React.Component{
